@@ -1,5 +1,3 @@
-const print = async function(data){
+module.exports = async function(data){
   await console.log(data);
 };
-
-exports.print = print;
