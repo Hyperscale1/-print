@@ -14,8 +14,8 @@
     "console",
     "simple"
   ],
-  "author": "",
-  "license": "ISC",
+  "author": "luca@hyperscripts.co",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/Hyperscale1/print/issues"
   },
