@@ -7,6 +7,6 @@ This is a simple NPM module made to help those that are used to using python!
 # Usage
 ---
 ```js
-const print = require('print');
+const print = require('print-hyperscale');
 print.print('Hello world!');
 ```
