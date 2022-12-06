@@ -10,6 +10,10 @@
     "type": "git",
     "url": "git+https://github.com/Hyperscale1/print.git"
   },
+  "keywords": [
+    "console",
+    "simple"
+  ],
   "author": "",
   "license": "ISC",
   "bugs": {
