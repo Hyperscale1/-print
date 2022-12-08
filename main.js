@@ -1,3 +1,3 @@
-module.exports = async function(data){
-  await console.log(data);
+module.exports = function(data){
+  console.log(data);
 };
